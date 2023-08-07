@@ -1,2 +1,2 @@
 # Python-Automation-project
-Repo for automation python project.
+Automate your task with this projects.
